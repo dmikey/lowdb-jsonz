@@ -1,0 +1,16 @@
+{
+  "name": "lowdb-jsonz",
+  "version": "0.0.1",
+  "description": "zips json into a base64 string for flat storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Anderson",
+  "license": "MIT",
+  "dependencies": {
+    "graceful-fs": "^4.1.4",
+    "lowdb": "^0.13.1",
+    "steno": "^0.4.4"
+  }
+}
